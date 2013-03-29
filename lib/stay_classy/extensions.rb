@@ -1,0 +1,2 @@
+module StayClassy::Extensions
+end
